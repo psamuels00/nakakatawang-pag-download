@@ -14,6 +14,9 @@ The Crazy Download
 
        cd ~/Downloads
 
+   Note that you can use the icon to the right of a command to copy it (Ctrl-C) for
+   later pasting into the terminal (Ctrl-V).
+
 3. Download the files...
 
        git clone https://github.com/psamuels00/nakakatawang-pag-download.git
