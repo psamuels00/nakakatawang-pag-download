@@ -21,6 +21,8 @@ The Crazy Download
 
        git clone https://github.com/psamuels00/nakakatawang-pag-download.git
 
+   It should take, like, 15-60 seconds.
+
 4. Perform the installation...
 
        nakakatawang-pag-download/install.sh
