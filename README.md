@@ -18,9 +18,13 @@ The Crazy Download
 
        git clone https://github.com/psamuels00/nakakatawang-pag-download.git
 
-4. Start the installation...
+4. Perform the installation...
 
        nakakatawang-pag-download/install.sh
 
-5. When done, don't forget to unmount and remove the installation file in the Downloads directory named _Mac_TurboTax_Download.dmg_.
-   You can do this from the Finder.
+   Drag 'TurboTax 2023.app' to the Applications folder, as instructed.
+
+5. Cleanup.  Remove the installation files.
+
+       nakakatawang-pag-download/cleanup.sh
+
