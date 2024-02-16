@@ -26,6 +26,7 @@ The Crazy Download
        nakakatawang-pag-download/install.sh
 
    Drag 'TurboTax 2023.app' to the Applications folder, as instructed.
+   Then close the window.
 
 5. Cleanup.  Remove the installation files.
 
